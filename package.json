@@ -5,15 +5,15 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm 1 -g pm2 && pm 2 start index . js pm2 save && pm2 logs"
   },
-  "author": "Zeeoneofc",
+  "author": "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:@ferdiz-afk/baileys@^5.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-phonenumber": "+223 67 12 89 92",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
